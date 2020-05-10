@@ -1,0 +1,7 @@
+Ransomware Question
+Deep security and ransomware, also compliance
+What cloud solution are you using?
+PCI DSS compliance
+Demo an actual ransomware get blocked
+What version of windows server are you running?
+

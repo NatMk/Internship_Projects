@@ -1,0 +1,12 @@
+Preapere presentation (10 slides MAX) for customer that is facing problems
+Builid an actual enviroment and demo it to the customer to address the problem their challanges. 
+Ex: show how your enviroment is able to resist a ransomware attack that the customer is facing
+The customer is represnted by an individual such as Jeff and the team will be presnting to him
+Set up an AWS/AZURE enviroment
+Set up billing. It should be under $30. Trend will refund it. 
+
+Team Members
+Amiras Modi
+caleb
+Natnael Kebede
+Joseph
